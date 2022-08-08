@@ -1,0 +1,21 @@
+{
+  "name": "zoomclonecoding",
+  "version": "1.0.0",
+  "description": "Zoom Clone using NodeJS, WebRTC and Websockets",
+  "main": "index.js",
+  "licenses": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r14minji/zoomCloneCoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r14minji/zoomCloneCoding/issues"
+  },
+  "homepage": "https://github.com/r14minji/zoomCloneCoding#readme"
+}
